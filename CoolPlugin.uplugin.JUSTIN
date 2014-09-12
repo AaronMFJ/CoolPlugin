@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	
+	"FriendlyName": "Cool Plugin",
+	"Version": 1
+	"VersionName": "1.0"
+	"EngineVersion": 2289767,
+	"Description": "A Cool Plugin to try.",
+	"Category": "3DBuzz.Plugin"
+	"CreatedBy": "Justin Hair",
+	"CreatedByURL": "http://www.UnrealEngine.com",
+	
+	"Modules":
+	[
+		{ "Name": "CoolPlugin", "Type": "Editor" }
+	]
+}

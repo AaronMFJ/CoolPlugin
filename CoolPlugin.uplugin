@@ -1,0 +1,17 @@
+{
+     "FileVersion": 3,
+     
+     "FriendlyName": "Cool Plugin",
+     "Version": 1
+     "VersionName": "Version 1.0-Test",
+     "EngineVersion": 1579795,
+     "Description": "This plugin will procedurally generate a city out of blocks based on some user settings",
+     "Category": "Test Plugins",
+     "CreatedBy": "Aaron Jones",
+     "CreatedByUrl": "http://www.unrealengine.com",
+     
+     "Modules":
+     [
+     	{ "Name": "CoolPlugin", "Type": "Editor" }
+     ]
+}
