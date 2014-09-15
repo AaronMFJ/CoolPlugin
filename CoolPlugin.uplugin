@@ -1,17 +1,21 @@
 {
-     "FileVersion": 3,
+     "FileVersion" : 3,
      
-     "FriendlyName": "Cool Plugin",
-     "Version": 1
-     "VersionName": "Version 1.0-Test",
-     "EngineVersion": 1579795,
-     "Description": "This plugin will procedurally generate a city out of blocks based on some user settings",
-     "Category": "Test Plugins",
-     "CreatedBy": "Aaron Jones",
-     "CreatedByUrl": "http://www.unrealengine.com",
-     
-     "Modules":
+     "FriendlyName" : "Cool Plugin",
+     "Version" : 1,
+     "VersionName" : "Version 1.0-Test",
+	 "CreatedBy" : "Aaron Jones",
+	 "CreatedByUrl" : "http://www.unrealengine.com",
+     "EngineVersion" : "4.5",
+     "Description" : "This plugin will procedurally generate a city out of blocks based on some user settings",
+     "Category" : "Test Plugins",
+	 "EnabledByDefault" : true,
+
+     "Modules" :
      [
-     	{ "Name": "CoolPlugin", "Type": "Editor" }
+     	{
+		 "Name" : "CoolPlugin", 
+		 "Type" : "Editor" 
+		}
      ]
 }
